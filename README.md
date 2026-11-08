@@ -38,7 +38,7 @@ You need to have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/
 
 1.  **Clone the repo**
     ```sh
-    git clone https://github.com/Govind-19/cyber_training_.git
+    git clone https://github.com/govindbammidi/cyber_training_.git
     ```
 2.  **Navigate to the project directory**
     ```sh
